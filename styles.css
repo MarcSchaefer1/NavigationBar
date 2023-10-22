@@ -9,10 +9,14 @@ p{
   top: 0px;
   left: 0px;
   background-color: #999999;
+  height: 50px;
+  width: 100%;
+  color: white;
 }
 
 .filler{
-
   height: 200vh;
-  
+}
+.topfiller{
+  height: 50px;
 }

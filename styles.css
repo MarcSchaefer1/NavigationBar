@@ -9,12 +9,13 @@ p{
   top: 0px;
   left: 0px;
   background-color: #999999;
-  height: 50px;
+  height: 100px;
   width: 100%;
   color: white;
   display: flex;
   justify-content: space-around;
   align-items: center;
+  font-size:30px;
 }
 
 .filler{

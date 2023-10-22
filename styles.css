@@ -7,3 +7,11 @@ body {
   height: 300%;
 
 }
+
+.headerStyle{
+
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  
+}
